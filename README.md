@@ -19,3 +19,4 @@
 Le Bot va se connecter automatiquement, rechercher des parties aussi. Et lancer la game toute seule. Tu as plus besoin de faire quelques chose à part changer la fenêtre de LoL de résolution.
 
 
+Hi
